@@ -23,20 +23,20 @@ application/libraries/*
 /vendor/
 
 
-# assets/admin/img/uploads/dealer_product/large/* 
-# assets/admin/img/uploads/dealer_product/thumb/* 
+assets/admin/img/uploads/dealer_product/large/* 
+assets/admin/img/uploads/dealer_product/thumb/* 
 
-# assets/admin/img/uploads/employees/large/* 
-# assets/admin/img/uploads/employees/thumb/* 
+assets/admin/img/uploads/employees/large/* 
+assets/admin/img/uploads/employees/thumb/* 
 
-# assets/admin/img/uploads/expenses/large/* 
-# assets/admin/img/uploads/expenses/thumb/* 
+assets/admin/img/uploads/expenses/large/* 
+assets/admin/img/uploads/expenses/thumb/* 
 
-# assets/admin/img/uploads/payments/large/* 
-# assets/admin/img/uploads/payments/thumb/* 
+assets/admin/img/uploads/payments/large/* 
+assets/admin/img/uploads/payments/thumb/* 
 
-# assets/admin/img/uploads/punch/large/* 
-# assets/admin/img/uploads/punch/thumb/* 
+assets/admin/img/uploads/punch/large/* 
+assets/admin/img/uploads/punch/thumb/* 
 
 
 assets/admin/pdf/po_invoice/* 
